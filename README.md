@@ -1,2 +1,3 @@
-# terraform-gcp-network-module-example
-Exemplo simples para demonstração de modulos.
+# terraform-gcp-instance-module-example
+
+Exemplo simples para demonstração da criacao de modulos.
